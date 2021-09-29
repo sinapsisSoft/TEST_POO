@@ -160,9 +160,9 @@ public class Calculadora extends javax.swing.JFrame {
     private void Btn_2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Btn_2ActionPerformed
       
         
-       /* objFigura.setBase(30);
+      objFigura.setBase(30);
         objFigura.setAltura(45);
-        this.lbRespuesta.setText(objFigura.area());*/
+        this.lbRespuesta.setText(objFigura.area());
         
     }//GEN-LAST:event_Btn_2ActionPerformed
 
